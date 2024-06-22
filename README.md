@@ -1,7 +1,8 @@
 # Sales Purchase Requisition and Order Processing 📦
 <p align="center">
-  <img src="https://github.com/ankitg28/Local-LLMs-with-Ollama/blob/636a9565eca1f82735b00dbca1f0ac309cb623eb/Ollama_image.jpg" alt="Ollama" width="600" height="400" />
+  <img src="Procurment Process Application.jpg" alt="Procurement Application" width="900" height="400" />
 <p align="center">
+  
 ## Summary 📝
 The objective of this application is to assist financial and operations teams in large organizations to streamline procurement processes, enhance transparency, and reduce errors and delays. Users can create requests for services (e.g., cloud software services) or physical goods (e.g., laptops, screens) and manage requisitions and purchase orders efficiently. The application also provides reporting functionalities to track requisitions and purchase orders within the organization.
 
